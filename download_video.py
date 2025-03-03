@@ -3,11 +3,11 @@ import asyncio
 import os
 import json
 
-async def download_video(session, link_data):
+async def download_video(session, link_data, number_linc):
     url = link_data['link']
-    file_name = link_data['name'].replace('/', '')
+    file_name = ''.join(c for c in link_data['name'] if c not in '!?/:+,"()')
     async with session.get(url) as response:
-        with open(f'downloaded_video/{file_name}.mp4', 'wb') as f:
+        with open(f'downloaded_video/{number_linc}. {file_name}.mp4', 'wb') as f:
             async for chunk in response.content.iter_chunked(1048576):  # 1 MB chunks
                 f.write(chunk)
 
@@ -21,7 +21,7 @@ async def main():
     
     # Настраиваем асинхронную сессию
     async with aiohttp.ClientSession() as session:
-        tasks = [download_video(session, link) for link in video_url_list]
+        tasks = [download_video(session, link, num) for num, link in enumerate(video_url_list, 1)]
         await asyncio.gather(*tasks)
 
 # Запускаем асинхронный цикл
