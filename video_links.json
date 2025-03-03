@@ -1,0 +1,214 @@
+[
+    {
+        "name": "1.2 Установка Linux Ubuntu как виртуальной машины",
+        "link": "https://cdn.stepik.net/video/339185/360/edcad774be03461a5676213e7df87871.mp4"
+    },
+    {
+        "name": "1.3 Разворачивание Linux \"в облаках\"",
+        "link": "https://cdn.stepik.net/video/342251/360/545a1444fbda5ac67a81bf2cf6eb8ae4.mp4"
+    },
+    {
+        "name": "1.4 Настройка SSH-сервера",
+        "link": "https://cdn.stepik.net/video/342313/360/0bb83c8bf95301ac28e9b223f2e9ffe8.mp4"
+    },
+    {
+        "name": "2.1 Трюки и лайфхаки в терминале",
+        "link": "https://cdn.stepik.net/video/339186/360/9bca7e91912e9cdd33aca950c77cced2.mp4"
+    },
+    {
+        "name": "2.3 Основные команды для навигации по папкам",
+        "link": "https://cdn.stepik.net/video/339192/360/a5eef9bc44c0fc430a81152d54d8371e.mp4"
+    },
+    {
+        "name": "2.4 Создание файлов и папок",
+        "link": "https://cdn.stepik.net/video/339196/360/9d385bb1fe31905065b2a8729d2a6fdc.mp4"
+    },
+    {
+        "name": "2.5 Основные операции с файлами",
+        "link": "https://cdn.stepik.net/video/339197/360/94618514b81039671c7f467fc8e371de.mp4"
+    },
+    {
+        "name": "2.6 Просмотр файлов",
+        "link": "https://cdn.stepik.net/video/339199/360/f400d704f20fa1c8fdf7a4a8373199be.mp4"
+    },
+    {
+        "name": "3.1 Nano. Дружественный к пользователю текстовый редактор",
+        "link": "https://cdn.stepik.net/video/489969/360/fc45f02669a848576b672bce10f9b580.mp4"
+    },
+    {
+        "name": "3.2 Vim. Редактор по умолчанию",
+        "link": "https://cdn.stepik.net/video/339214/360/9853e2a4ea723a637a3ec59795346bd0.mp4"
+    },
+    {
+        "name": "3.3 Vimtutor. Обучалка по редактору Vim.",
+        "link": "https://cdn.stepik.net/video/339215/360/81c5a8537ded27e12c89cdcd3c4c4d18.mp4"
+    },
+    {
+        "name": "4.1 Команда find",
+        "link": "https://cdn.stepik.net/video/339216/360/fe96e3df7a1507190e7ad031dffb2880.mp4"
+    },
+    {
+        "name": "6.1 Важные директории, утилиты, архивирование",
+        "link": "https://cdn.stepik.net/video/344639/360/13b8ed3dd47c9badb66187eb01f69c74.mp4"
+    },
+    {
+        "name": "7.1 Вывод информации о пользователях",
+        "link": "https://cdn.stepik.net/video/344817/360/b152de28ebd47abe9470b7b358046422.mp4"
+    },
+    {
+        "name": "7.2 Создание пользователей",
+        "link": "https://cdn.stepik.net/video/344883/360/ecb0a9bd26dd96444032e429df70e201.mp4"
+    },
+    {
+        "name": "7.3 Изменение пользователей",
+        "link": "https://cdn.stepik.net/video/345305/360/ba45334b34ac23a750a73c4dd2e9d794.mp4"
+    },
+    {
+        "name": "7.4 Права root, удаление пользователей",
+        "link": "https://cdn.stepik.net/video/345429/360/2f32b36348395c4481ac9d1af8dcb4e3.mp4"
+    },
+    {
+        "name": "7.5 Управление группами",
+        "link": "https://cdn.stepik.net/video/345544/360/f3241d8a1b70e9cb1cf4a4dd7f450ca5.mp4"
+    },
+    {
+        "name": "8.1 Вывод информации + команда chmod",
+        "link": "https://cdn.stepik.net/video/346095/360/35c3837280076fe4e4c6c28c36d652e0.mp4"
+    },
+    {
+        "name": "8.2 Смена владельцев и групп",
+        "link": "https://cdn.stepik.net/video/346383/360/8ae56600360367b36866bdf3d20ff7e4.mp4"
+    },
+    {
+        "name": "8.3 Специальные биты, права по умолчанию",
+        "link": "https://cdn.stepik.net/video/346580/360/3f63980537203f8672a88d9bbe61512d.mp4"
+    },
+    {
+        "name": "9.1 Ссылки, iNodes",
+        "link": "https://cdn.stepik.net/video/346862/360/a9c4a3f10693339d2d20f0b3d8267696.mp4"
+    },
+    {
+        "name": "9.2 Потоки ввода-вывода",
+        "link": "https://cdn.stepik.net/video/346922/360/f67f9762e8b9c24b923fe48ee8b8d2c0.mp4"
+    },
+    {
+        "name": "9.3 Конвейер обработки команд",
+        "link": "https://cdn.stepik.net/video/347436/360/50c174321d78c7424fa2976a5c49b18f.mp4"
+    },
+    {
+        "name": "10.1 Утилита top (диспетчер задач)",
+        "link": "https://cdn.stepik.net/video/348609/360/061fe295ecf3eaca6f26188f557cdece.mp4"
+    },
+    {
+        "name": "10.2 Утилиты htop, ps, kill, systemctl",
+        "link": "https://cdn.stepik.net/video/348915/360/177dbcc63ed1ab2002396fac0df79c3b.mp4"
+    },
+    {
+        "name": "11.1 Утилита apt / apt-get",
+        "link": "https://cdn.stepik.net/video/349649/360/a51c402ccfb9185091da3db26ba9820d.mp4"
+    },
+    {
+        "name": "11.2 Утилиты dpkg, snap",
+        "link": "https://cdn.stepik.net/video/349897/360/c012048a893f2bc3c1eb7a7bd508951a.mp4"
+    },
+    {
+        "name": "11.3 Добавление репозитория",
+        "link": "https://cdn.stepik.net/video/443531/360/424ea593817315085a0cc5d16c707d6a.mp4"
+    },
+    {
+        "name": "11.3 Добавление репозитория",
+        "link": "https://cdn.stepik.net/video/443532/360/9fd1b9088d109ce119bb735d4fb893c4.mp4"
+    },
+    {
+        "name": "11.3 Добавление репозитория",
+        "link": "https://cdn.stepik.net/video/443533/360/0415b10d7706e2a58bf5b28c920ea7f5.mp4"
+    },
+    {
+        "name": "Служба cron, утилита crontab",
+        "link": "https://cdn.stepik.net/video/350775/360/3d18059ba3c57ac8e6aff833052983d3.mp4"
+    },
+    {
+        "name": "12.2 Настройка логов, задачи других пользователей",
+        "link": "https://cdn.stepik.net/video/351079/360/470541e46dc7e969d762d0e1b776f73b.mp4"
+    },
+    {
+        "name": "13.1 Просмотр, добавление, удаление правил",
+        "link": "https://cdn.stepik.net/video/354440/360/53ce404f61ead1f3efcc911fd3af0c6e.mp4"
+    },
+    {
+        "name": "13.2 Политики по умолчанию, сохранение правил",
+        "link": "https://cdn.stepik.net/video/354720/360/67eeea433b9aadf61a72e731a7fdd3de.mp4"
+    },
+    {
+        "name": "14.1 История создания, запуск скриптов, оболочка",
+        "link": "https://cdn.stepik.net/video/356812/360/729bee5d94ded87724ddfb2e7a1b2d16.mp4"
+    },
+    {
+        "name": "14.2 Синтаксис Bash: условия, ветвления",
+        "link": "https://cdn.stepik.net/video/356943/360/8f8565e2f2d9d2367d03a83166513bdc.mp4"
+    },
+    {
+        "name": "14.3 Синтаксис Bash: циклы, функции",
+        "link": "https://cdn.stepik.net/video/357215/360/f5eb85cf1314e98941096569e14b403a.mp4"
+    },
+    {
+        "name": "15.2 Чтение информации",
+        "link": "https://cdn.stepik.net/video/427280/360/acb88d999c87378e27511921d6af4acc.mp4"
+    },
+    {
+        "name": "15.3 Монтирование диска",
+        "link": "https://cdn.stepik.net/video/427591/360/06e9666920b9426d4837efdf6e4b1338.mp4"
+    },
+    {
+        "name": "15.3 Монтирование диска",
+        "link": "https://cdn.stepik.net/video/427857/360/6fe078bf630ce7b4337c06603192af6f.mp4"
+    },
+    {
+        "name": "15.4 LVM (logical volume management)",
+        "link": "https://cdn.stepik.net/video/431665/360/d3001a88020809c79f378b1f4b81f738.mp4"
+    },
+    {
+        "name": "15.4 LVM (logical volume management)",
+        "link": "https://cdn.stepik.net/video/432292/360/aca843d707c578f440d2cb04e670c370.mp4"
+    },
+    {
+        "name": "15.4 LVM (logical volume management)",
+        "link": "https://cdn.stepik.net/video/432319/360/59c3343a766098d5d3115510592edf97.mp4"
+    },
+    {
+        "name": "15.4 LVM (logical volume management)",
+        "link": "https://cdn.stepik.net/video/432634/360/820c5f1668ebdbeebefa860f6464d6a9.mp4"
+    },
+    {
+        "name": "16.2 Введение, установка",
+        "link": "https://cdn.stepik.net/video/428297/360/aaaf551a79e5b9f257e252cc1b50e2e4.mp4"
+    },
+    {
+        "name": "16.3 Список команд, первый контейнер",
+        "link": "https://cdn.stepik.net/video/428312/360/2aa3d09707efe19eab26656456138f70.mp4"
+    },
+    {
+        "name": "16.4 Контейнер с документацией",
+        "link": "https://cdn.stepik.net/video/428331/360/fa80e6e2b9656f3c4de08bfac6758125.mp4"
+    },
+    {
+        "name": "16.5 Веб-сервер Nginx в Docker",
+        "link": "https://cdn.stepik.net/video/428543/360/af0f36c750ce073ea600cb4e3b78df93.mp4"
+    },
+    {
+        "name": "16.6 Dockerfile",
+        "link": "https://cdn.stepik.net/video/430189/360/2abbe67421c44df0357771bf80a66c3e.mp4"
+    },
+    {
+        "name": "16.6 Dockerfile",
+        "link": "https://cdn.stepik.net/video/430226/360/16c823b3a2f2cc50d533ada90f30473b.mp4"
+    },
+    {
+        "name": "16.7 Docker Compose",
+        "link": "https://cdn.stepik.net/video/430412/360/65e9cfd151bf1b58e364305c3cbf07e9.mp4"
+    },
+    {
+        "name": "16.8 Удаление ресурсов",
+        "link": "https://cdn.stepik.net/video/430549/360/f8327644c3780ca6cbc4fdbb0ec44a8b.mp4"
+    }
+]
