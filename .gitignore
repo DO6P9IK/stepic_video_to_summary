@@ -1,7 +1,10 @@
 __pycache__/
 .env
 venv/
+downloaded_video/
+transcribed_video/
 script_pr.py
 *.pdf
+*.json
 
 

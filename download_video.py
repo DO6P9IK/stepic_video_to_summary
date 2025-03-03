@@ -26,3 +26,8 @@ async def main():
 
 # Запускаем асинхронный цикл
 asyncio.run(main())
+
+filesname = os.listdir('downloaded_video')
+filesname.sort(key=lambda x: int(x.split()[0].replace('.', '')))
+with open('filesname.json', 'w', encoding='UTF-8') as file:
+    json.dump(filesname, file, ensure_ascii=False, indent=4)
