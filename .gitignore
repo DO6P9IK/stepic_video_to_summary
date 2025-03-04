@@ -3,6 +3,7 @@ __pycache__/
 venv/
 downloaded_video/
 transcribed_video/
+summary_files/
 script_pr.py
 *.pdf
 *.json
