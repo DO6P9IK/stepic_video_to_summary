@@ -46,6 +46,8 @@ for name in filesname:
     except:
         with open('ERRORS.txt', 'a', encoding='UTF-8') as file:
             message = f'Ошибка транскрибации файла {name}\n'
+        count += 1
+        modified_filesname = filesname[count:]
         continue
     count += 1
     modified_filesname = filesname[count:]
