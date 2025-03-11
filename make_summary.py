@@ -35,6 +35,8 @@ for file_name in filesname:
     HTML(string=answer).write_pdf(f'summary_files/{file_name[:-4]}.pdf')
     print(f'Файл {file_name[:-4]}.pdf создан')
 
+print('\nPDF файлы успешно созданы')
+
 pdf_files = os.listdir('summary_files')
 pdf_files.sort(key=lambda x: int(x.split()[0].replace('.', '')))
 
@@ -48,3 +50,5 @@ with open("Конспект.pdf", "wb") as output_file:
     merger.write(output_file)
 
 merger.close()
+
+print('\nКонспект.pdf успешно создан')

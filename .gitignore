@@ -4,6 +4,7 @@ venv/
 downloaded_video/
 transcribed_video/
 summary_files/
+content_files/
 script_pr.py
 *.pdf
 *.json
